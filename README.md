@@ -1,2 +1,2 @@
 # fcc-certifications
-FreeCodeCamp projetcs and certifications (examples for my students).
+FreeCodeCamp projects and certifications (examples for my students).
